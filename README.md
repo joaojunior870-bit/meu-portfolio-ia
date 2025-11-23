@@ -1,4 +1,4 @@
-# Portfólio de Candidatura | iFood GenAI 🚀🍕
+# Portfólio de Candidatura | iFood GenAI 🚀🍕 Análise de Sentimento, Recomendação e Logística para candidatura.
 
 Olá! Sou João de Deus, de Natal-RN.
 
